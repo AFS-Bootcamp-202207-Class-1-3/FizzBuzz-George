@@ -11,7 +11,7 @@ public class FizzBuzzTest {
 
         //given
         int number = 1;
-        int expectedResult = 1;
+        String expectedResult = "1";
 
         //when
         FizzBuzz fizzBuzz = new FizzBuzz();
