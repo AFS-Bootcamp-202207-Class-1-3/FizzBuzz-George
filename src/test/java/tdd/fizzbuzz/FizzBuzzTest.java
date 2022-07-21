@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class FizzBuzzTest {
 
     @Test
-    public void should_return_1_when_countOff_given1() {
+    public void should_return_1_when_countOff_given_1() {
 
         //given
         int number = 1;
